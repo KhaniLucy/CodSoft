@@ -1,7 +1,4 @@
-
-
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/CodSoft/blob/main/Screenshot%202024-02-27%2013.28.55.png)
 
 
 # Calulator
